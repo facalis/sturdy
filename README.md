@@ -1,2 +1,2 @@
 # sturdy-meme
-apprentissage github
+apprentissage github avec video2brain
